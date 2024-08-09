@@ -1,0 +1,56 @@
+body {
+    background: black;
+    margin: 9px;
+    font-family: 'Poppins', sans-serif;
+}
+
+p{
+    color: #fff;
+}
+
+.cpp {
+    color: white;
+    background: greenyellow;
+    width: 180px;
+    height: 35px;
+    border-radius: 5px;
+}
+
+.cpp:hover {
+    background: green;
+    transition: .5s;
+}
+
+.e {
+    color: white;
+    background: greenyellow;
+    width: 260px;
+    height: 35px;
+    border-radius: 5px;
+}
+
+.e:hover {
+    background: green;
+    transition: .5s;
+}
+
+.f {
+    color: white;
+    background: greenyellow;
+    width: 260px;
+    height: 35px;
+    border-radius: 5px;
+}
+
+.f:hover {
+    background: green;
+    transition: .5s;
+}
+
+a {
+    color: white;
+    background: greenyellow;
+    width: ;
+    height: ;
+    border-radius: 5px;
+}
